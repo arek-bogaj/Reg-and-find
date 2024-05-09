@@ -1,3 +1,3 @@
-Reg and find
+Reg and find.
 My first app.
-Python + SQLite3
+Python + SQLite3.
